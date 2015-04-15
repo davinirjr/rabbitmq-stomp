@@ -1,0 +1,13 @@
+*~
+/ebin/*
+.beam
+build/
+dist/
+cover/
+erl_crash.dump$
+*.pyc
+test/certs/
+test/ebin/test.config
+ebin/rabbitmq_stomp\.app$
+debug/
+deps/stomppy*
